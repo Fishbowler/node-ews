@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "2.3.3",
-    "httpntlm": "1.7.6",
+    "httpntlm": "1.7.7",
     "lodash": "4.17.11",
     "request": "2.88.2",
     "soap": "0.25.0",
